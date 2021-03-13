@@ -1,0 +1,8 @@
+Getting there...
+
+P2P sort of there needs further functions sorting out.
+
+    1.P2P aspect of if client can't connect then drop to server sort of works
+    2.Upon connection client needs to get and store blockchain
+    
+
